@@ -16,6 +16,10 @@ IDE used : Programiz online SQL Editor, JDoodle online compiler and SQLite.
 
 **III. Workflow**
 
+1. This is simple SQL table that shows 2022 Formula 1 racer's standings.
+2. Inside a column Position, Drivername, Number, Country, Points, Car, Gap between each driver in seconds is shown.
+3. 
+
 
 
 
