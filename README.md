@@ -24,10 +24,12 @@ IDE used : Programiz online SQL Editor, JDoodle online compiler and SQLite.
 
 
 **V. Application & Future enhancements**
+
 This Formula 1 Database can be further implemented with extra graphical emoji's and with unique data inside the table.
 
 
 
 **VI. You can check code here:**
+
 https://www.jdoodle.com/embed/v0/4ZCP
 
