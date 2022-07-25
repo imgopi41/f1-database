@@ -10,6 +10,7 @@ A table is created in the name of 'f1', Rows and Columns where filled with formu
 **II. Technology Stack**
  
 Language: Structured Query Language
+
 IDE used : Programiz online SQL Editor, JDoodle online compiler and SQLite.
 
 
