@@ -1,0 +1,27 @@
+CREATE TABLE f1(
+Position int,
+Driver varchar(15),
+Number int,
+Country char(8),
+Car varchar(15),
+Points int,
+Gap int,
+PRIMARY KEY (Position)
+);
+
+INSERT INTO f1 VALUES (1,"Max Verstappen",33,"Netherlands",'Red Bull',208,-5);
+INSERT INTO f1 VALUES (2,"Charles Leclerc",16,"Poland",'Ferrari',170,-63);
+INSERT INTO f1 VALUES (3,"Sergio Perez",11,"Mexcio",'Red Bull',163,-70);
+INSERT INTO f1 VALUES (4,"Carlos Sainz",55,"Spain",'Ferrari',144,-89);
+INSERT INTO f1 VALUES (5,"Geroge Russell",63,"Great Britain",'Mercedes',143,-90);
+INSERT INTO f1 VALUES (6,"Lewis Hamilton",44,"Great Britain",'Mercedes',127,-106);
+INSERT INTO f1 VALUES (7,"Lando Norris",4,"Great Britain",'McLaren',70,-163);
+INSERT INTO f1 VALUES (8,"Esteban Ocon",31,"France",'Alpine F1 Team',56,-177);
+INSERT INTO f1 VALUES (9,"Valtteri Bottas",63,"Finland",'Alfa Romeo',46,-187);
+INSERT INTO f1 VALUES (10,"Fernando Alonso",14,"Spain",'Alpine F1 Team',37,-196);
+INSERT INTO f1 VALUES (11,"Kevin Magnussen",20,"Dainsh",'Haas F1 Team',22,-211);
+INSERT INTO f1 VALUES (12,"Daniel Ricciardo",03,"Australia",'McLaren',19,-214);
+
+
+
+SELECT * FROM f1;
