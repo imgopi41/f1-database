@@ -1,5 +1,5 @@
 # f1-database
-A Formula 1 database implemented with Structured Query Language (SQL).
+This is Formula 1 database implemented with Structured Query Language (SQL).
 
 **I. Description**
 
